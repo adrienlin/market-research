@@ -30,7 +30,7 @@ Install all the requirements necessary to run the script
 pip install -r requirements.txt
 ```
 
-## Exectute the script
+## Execute the script
 
 Open the market_sizing.py script, run it and answer all the questions (should be self-explanatory). Change the output filename if needed. It should drop the results file in your root directory.
 
